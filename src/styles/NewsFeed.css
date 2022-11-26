@@ -1,0 +1,75 @@
+.user__avt {
+  width: 75px;
+  height: 75px;
+  margin-right: 15px;
+}
+
+.newsfeed {
+  background-color: #18191a;
+}
+
+.newsfeed__logo {
+  width: 100px;
+}
+
+.exclamation {
+  height: 25px;
+}
+
+.question {
+  height: 25px;
+}
+
+.random__quote {
+  height: 150px;
+}
+
+.quote {
+  /* line-height: 200px; */
+}
+
+.posts {
+  background-color: #242526;
+}
+
+.like__number {
+  color: #7fd871;
+}
+
+#comment {
+  height: 40px;
+}
+
+.single-comment {
+  background-color: #3a3b3c;
+}
+
+.mission-item {
+  cursor: pointer;
+}
+
+.mission-item:hover {
+  background-color: #37383a;
+}
+
+.posts__btn:hover {
+  background-color: #37383a;
+  cursor: pointer;
+}
+
+.posts__info:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.viewall:hover {
+  filter: brightness(120%);
+}
+
+.award__pic {
+  height: 242px;
+}
+
+.accept-btn {
+  cursor: pointer;
+}
