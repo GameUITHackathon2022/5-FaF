@@ -14,3 +14,5 @@ Mô tả: Bảo vệ môi trường đang là vấn đề của mỗi con ngư�
 7.	Ngoài ra còn các tính năng khác như: gợi ý sản phẩm thân thiện môi trường, gợi ý không gian sống,…
 
 Cách sử dụng: Sử dụng như một mạng xã hội, có thể tương tác với những người dùng khác – đăng bài, like, share các bài viết, bình luận trên bài viết của mọi người. Đối với hệ thống nhiệm vụ, mọi người sẽ like, bình luận, hệ thống sẽ dựa vào đó, đánh giá và đưa ra kết quả của mỗi nhiệm vụ.
+
+Link sản phẩm: https://eae.f4koin.cyou/
